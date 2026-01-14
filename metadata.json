@@ -1,0 +1,5 @@
+{
+  "name": " Bitrate Calculator for Stream Alerts -Rabeaz",
+  "description": "A sleek, professional utility for streamers to calculate optimal video bitrates for WebM alerts based on file size limits and video duration.",
+  "requestFramePermissions": []
+}
